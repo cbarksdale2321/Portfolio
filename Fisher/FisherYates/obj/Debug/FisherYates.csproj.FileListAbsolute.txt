@@ -1,0 +1,7 @@
+C:\Users\charl\workspace\FisherYates\FisherYates\obj\Debug\FisherYates.csprojAssemblyReference.cache
+C:\Users\charl\workspace\FisherYates\FisherYates\obj\Debug\FisherYates.csproj.CoreCompileInputs.cache
+C:\Users\charl\workspace\FisherYates\FisherYates\bin\Debug\FisherYates.exe.config
+C:\Users\charl\workspace\FisherYates\FisherYates\bin\Debug\FisherYates.exe
+C:\Users\charl\workspace\FisherYates\FisherYates\bin\Debug\FisherYates.pdb
+C:\Users\charl\workspace\FisherYates\FisherYates\obj\Debug\FisherYates.exe
+C:\Users\charl\workspace\FisherYates\FisherYates\obj\Debug\FisherYates.pdb
